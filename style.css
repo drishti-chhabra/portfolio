@@ -1,0 +1,56 @@
+.setButtons{
+  margin-left:220px;
+   margin-top:10px;
+  
+}
+
+#home{
+height:750px;
+  background-image:url("http://mediabonsai.com/bonsai/wp-content/uploads/2011/10/mb-background-2000.jpg");
+    opacity:0.65;
+}
+  #about{
+    height:600px;
+    background-color:black;
+    
+    
+  }
+#portfolio
+{
+  height:800px;
+  background-color:#16A085  ;
+ 
+}
+#contact
+{
+  height:600px;
+  background-color:black;
+}
+p{
+ font-size:25px;
+  color:white;
+  padding:10px;
+}
+img{
+  padding:40px;
+  height:300px;
+  width:300px;
+}
+h1{
+  padding:20px;
+  text-align:center;
+  
+}
+.setting{
+  margin:20px;
+}
+.foot{
+  height:60px;
+  background-color:#2C3E50;
+  text-align:center;
+}
+.design{
+  margin:20px;
+  width:600px;
+  height:500px;
+}
